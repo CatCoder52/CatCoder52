@@ -1,9 +1,9 @@
-## Hi, I’m Viral Sangani <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+## Hi, I’m CatCoder52 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web3+Developer;I'm+also+a+DevRel+at+Celo+Foundation" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web3+Developer;Let's+learn+from+each+other" /></a>
 </p>
 
-<p align ="center">
+<!-- <p align ="center">
   <a  href="https://viralsangani.me" target="_blank">
     <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
   </a>	
@@ -17,18 +17,18 @@
   </a>  
   <a href="https://twitter.com/viral_sangani_" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-    </a>
-  </p>
+  </a>
+</p> -->
 
 
-<p >Viral Sangani is a Web3 Developer, where he is improving his skills and learn new technologies in decentralized world and deploying to the modern web. He also writes @ Viral Sangani's Blog, a place where he writes about new technologies and mostly Web3 related stuff. He spends a lot of time writing to share what he’s learned in tech world. He build, automate and sometine help people rescue applications. This frequently boils down to help community members grow and learn from each other at every opportunity and share what we learn . His motto in life is , **Pursue Passions Not Paychecks**, **Invest in Ideas That Matter** and **Be Lazy and Dumb**. He is trying his very best to follow his own advice. He lives in India 🇮🇳.
+<p >CatCoder52 is a Web3 Developer, where he is improving his skills and learn new technologies in decentralized world and deploying to the modern web. He also writes @ CatCoder52's Blog, a place where he writes about new technologies and mostly Web3 related stuff. He spends a lot of time writing to share what he’s learned in tech world. He build, automate and sometine help people rescue applications. This frequently boils down to help community members grow and learn from each other at every opportunity and share what we learn . His motto in life is , **Pursue Passions Not Paychecks**, **Invest in Ideas That Matter** and **Be Lazy and Dumb**. He is trying his very best to follow his own advice. He lives in Canada 🇮🇳.
 </p>
 
 
 
 ## Top Projects
 
-<a href="https://github.com/viral-sangani/blog.viralsangani.me">
+<a href="https://github.com/CatCoder52/snapshot">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
@@ -36,7 +36,7 @@
 
 </a>  
 
-<a href="https://github.com/viral-sangani/flutter_walletconnect">
+<a href="https://github.com/CatCoder52/videocall">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
@@ -45,7 +45,7 @@
 </a> 
 
 
-<a href="https://github.com/viral-sangani/Polymarket-clone">
+<a href="https://github.com/CatCoder52/chat">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
