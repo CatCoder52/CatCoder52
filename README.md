@@ -28,7 +28,7 @@
 
 ## Top Projects
 
-<a href="https://github.com/CatCoder52/snapshot">
+<a href="https://github.com/CatCoder52/snapshot">   
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
@@ -54,7 +54,7 @@
 </a> 
 
 
-## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+<!-- ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
 
 <details> 
@@ -67,20 +67,20 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viral-sangani&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="viral-sangani" height="192px"/>
   <br/>
   </p>
-</details>
+</details> -->
 
 
-<details>
+<!-- <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/viral-sangani"><img alt="Viral's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=viral-sangani&custom_title=Ifeanyi's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
-</details>
+</details> -->
 
 <br/>
 
-## 🏆GitHub Trophies
+## 🏆GitHub Trophies <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 ![](https://github-profile-trophy.vercel.app/?username=viral-sangani&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
